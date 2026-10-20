@@ -1,0 +1,13 @@
+{
+  "commit": {
+    "commit": "03fa30690503bd832f6afab63c60b5f2ee57a316",
+    "author": "Claudiu Forgaci <33600128+cforgaci@users.noreply.github.com>",
+    "time": "2026-10-20T18:48:41Z",
+    "files": 64,
+    "merge": false,
+    "message": "Prepare post-ropensci-review release (#432)\n\n* Add missing v0.3.2 changelog entry\n\n* Update documentation\n\n* Increment package version\n\n* Update metadata\n\n* .Rbuildignore CITATION.cff\n\n* Remove unnecessary Additional_repositories entry\n\n* Update cran-comments for v1.0.0 release\n\n* Update release number and date in changelog"
+  },
+  "repo": "https://github.com/CityRiverSpaces/rcrisp",
+  "pkg": "rcrisp",
+  "time": "2026-10-20T19:28:58Z"
+}
