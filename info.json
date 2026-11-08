@@ -1,0 +1,13 @@
+{
+  "commit": {
+    "commit": "a1c5fba83a17b8fcf3fa740555653ba14dabdfcc",
+    "author": "Claudiu Forgaci <claudiuforgaci@gmail.com>",
+    "time": "2026-11-08T21:08:05Z",
+    "files": 1,
+    "merge": false,
+    "message": "Add changelog item about added references\n"
+  },
+  "repo": "https://github.com/CityRiverSpaces/rcrisp",
+  "pkg": "rcrisp",
+  "time": "2026-11-08T21:20:16Z"
+}
