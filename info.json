@@ -1,0 +1,13 @@
+{
+  "commit": {
+    "commit": "2a9da1aa46bc3ee67882917757ef3337b93dc703",
+    "author": "Claudiu Forgaci <33600128+cforgaci@users.noreply.github.com>",
+    "time": "2026-11-20T18:45:36Z",
+    "files": 1,
+    "merge": false,
+    "message": "Update changelog with JOSS badge addition"
+  },
+  "repo": "https://github.com/CityRiverSpaces/rcrisp",
+  "pkg": "rcrisp",
+  "time": "2026-11-20T20:10:16Z"
+}

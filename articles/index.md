@@ -1,0 +1,22 @@
+# Articles
+
+### Articles
+
+- [Getting started with
+  rcrisp](https://docs.ropensci.org/rcrisp/articles/getting-started.md):
+- [1. The method of
+  delineation](https://docs.ropensci.org/rcrisp/articles/vig_01-method.md):
+- [2. Getting OSM data for
+  delineation](https://docs.ropensci.org/rcrisp/articles/vig_02-getting-osm-data.md):
+- [3. Preparing the network for
+  delineation](https://docs.ropensci.org/rcrisp/articles/vig_03-network-preparation.md):
+- [4. Valley
+  delineation](https://docs.ropensci.org/rcrisp/articles/vig_04-valley-delineation.md):
+- [5. Corridor
+  delineation](https://docs.ropensci.org/rcrisp/articles/vig_05-corridor-delineation.md):
+- [6. Corridor
+  segmentation](https://docs.ropensci.org/rcrisp/articles/vig_06-corridor-segmentation.md):
+- [7. Riverspace
+  delineation](https://docs.ropensci.org/rcrisp/articles/vig_07-riverspace-delineation.md):
+- [8. Benchmarking across city-river
+  cases](https://docs.ropensci.org/rcrisp/articles/vig_08-benchmark.md):
